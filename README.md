@@ -10,10 +10,10 @@ Just a tiny program that allows you to "cryptograhically mix your data with rand
 
 ## If you got it, try decrypting this (files are in base64):
 
-```k6P058DyKob5XHifdprh+bVIHJA4DMZQVeoDNTasXibSrF4HQbdODuAcTiJ50ybrCiPPGoXI+JOz6IS8znZrYuPBJqDFFeO07XpobLFabP3Myi9AnLsFvHkpRs/EzPivW3ovqDhecsYDJFkwJzLiz0U7lC2nXHv0a9OK6tabgwgOpPamV4vBln4ybUXeSF/In1ymKCilUMouA/gWwMfxsdJhE19kn5M0nQz09Ej+1krP5JxWLAZpcpYzSTX7zQ==```
+```pAbEUuybFoiBV1yAAAf7yLvDlNU+giyZ5uuAu9IKfX3LrEYmuT4oLcXmymSn+Czi0bRC47jL9Jk4ymqaliNpEmcagjZuwDdjK0PgwrTPeURQvYCUhomMkJqRkda/OmZ35WfjOcmBT7VdqdS+pq9Ivb2jz+rCXIVAkcRPspuQU5gVTHxh+h9NyuDHHjtsBg0847DBhxD783qjrp45JsjKiTkwkAdIJu7dEThbg4jf7QSNUa03+bmW5Nvy7yDBvNllOi6Q5w==```
 
 and
 
-```28rUk6iXWOPYfCvwVvOH2cwnabBMba01dYB2RkKMMUi3jDFhYcMma5N5bkQQv0OYJgO2dfDoj/zdz/CcrBNLA4GtQ4CxesPGiBkHGtQoTImkrw8z88533xwJIKaoqdaPCBUP0VcrUqViSnlYTlaH7zZU+UiHOBqACvPok/bo82Rn0ILPOezh4hZXHiD+Ljak+i+GSUbBcL5GZpY2sLKFxbsPdH8Q9/ZZvWWa1CyXsCyqlvk4WCYZHvdQLEbVxw==```
+```7G/kJoT+ZO2gdx3zIH6UvZuw8bASolX2k8v02rlvXRe+3zIG1lBNDaqA6hDPnV+H8dIrj9242LlBpR+64UwHNRM64FNOoVUPTmOUrZS9HCc/y+Xmpv3k9bri/qPNWQNXgw6PXOehHNp90LvLhswp053Lpo6nfPYv/KFv1vrkMrh3NVwSinMkvpSucFxMcmVZkNXh4XmXlgmDz/BdBryi7FcQ4HI8Uoezdhgv6+2yzW3jcclen9/zlr6cmwCx0LgGX12+7Q==```
 
 ;)
